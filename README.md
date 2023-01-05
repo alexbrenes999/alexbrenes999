@@ -3,7 +3,7 @@
 </p>
 <br />
 
-# Hello! My name is Alex, it's nice to meet you! 
+# Hello, I'm Alex!
 
 -A bit about me!
 
