@@ -12,4 +12,4 @@
 - 🤔 I’m looking for help with fortifying my JavaScript and learning Python
 - 📫 You can reach me by email, alexbrenes2002@gmail.com , or my socials below.
 
-## Skills
+<!-- ## Skills -->
